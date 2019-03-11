@@ -1,2 +1,2 @@
-# GLOFAS
+# GLOFAS Metadata
 glofas repository for stations metadata
